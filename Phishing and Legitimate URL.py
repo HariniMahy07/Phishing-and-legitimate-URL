@@ -317,7 +317,6 @@ def rightClick(response):
 
 # In[30]:
 
-
 # 17.Checks the number of forwardings (Web_Forwards)    
 def forwarding(response):
   if response == "":
